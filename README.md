@@ -1,3 +1,8 @@
+# *kalau mau ddos ada resiko nya antara kouta habis sama ngenlank jadi kalau bisa harus memakai von atau proxy dan untuk memakai wifi saja ⚠️*
+
+
+# *Tips Install & Run Script
+
 ```bash
 pkg update -y
 pkg upgradez -y
