@@ -28,8 +28,8 @@ def print_loading():
 def main_menu():
     clear()
     print_banner()
-    print("\033[1;34m[1] HTTP Flood (ddosv1)")
-    print("\033[1;34m[2] SYN Flood (ddosv2)")
+    print("\033[1;34m[1] HTTP Flood")
+    print("\033[1;34m[2] SYN Flood ")
     print("\033[1;34m[3] UDP Flood")
     print("\033[1;34m[4] ICMP Flood")
     print("\033[1;34m[5] Slowloris Attack")
